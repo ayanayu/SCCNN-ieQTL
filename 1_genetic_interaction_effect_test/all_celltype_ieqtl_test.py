@@ -89,4 +89,4 @@ for i in celltype_list :
                  sample_participant_lookup_file=sample_participant_anno,
                  interaction_s=interaction_s2, maf_threshold_interaction=0.05,
                  group_s=None, run_eigenmt=True, output_dir='./')
- print(i+' has been finished')
+ print(i+' has been finished') 
